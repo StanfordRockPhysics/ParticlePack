@@ -39,10 +39,7 @@ If you are using this package. I would love to hear from you on how you use and 
 
 ## Referencing
 
-Al Ibrahim, M. A., Kerimov, A., Mukerji, T., and Mavko, G., 2019, Particula: A simulator tool for computational rock physics of granular media: Geophysics, in press.
-
-
-Read More: https://library.seg.org/doi/abs/10.1190/geo2018-0481.1
+Al Ibrahim, M. A., Kerimov, A., Mukerji, T., and Mavko, G., 2019, Particula: A simulator tool for computational rock physics of granular media: Geophysics, in press. [Link](https://library.seg.org/doi/abs/10.1190/geo2018-0481.1)
 
 ## Published research studies using Particula
 
